@@ -1,18 +1,19 @@
 ![banner-github](https://raw.githubusercontent.com/BrainTeazer/BrainTeazer/893ccaf8cdc27878fde21f2c6efc0f73f5755433/assests/banner-github.svg)
 
-### hello there
+### hello there :-)
 
 <a href='https://www.linkedin.com/in/ayambanjade/'>
-    <img align='left' alt='Linkedin' width='22px' src='./assests/linkedin.svg'/>
+    <img align='left' alt='linkedin' width='22px' src='./assests/linkedin.svg'/>
+</a>
+<a href='mailto:ayam.banjade@gmail.com'>
+    <img align='left' alt='email' width='22px' src='./assests/email.svg'/>
 </a>
 
 <br /> <br />
 
 Hello. I'm [Ayam Banjade](https://brainteazer.github.io), a CS student. I am an open-source enthusiast and enjoy learning / trying out new things whether they be cutting edge or something I just want to try.
 
-I like vim (particularly neovim) and LaTeX and love the command line. I take great care in the maintainbility, readability, code quality, and relevant architecture.
-
-- if you have any questions you can send me an [email](mailto:ayam.banjade@gmail.com) :-)
+I like vim (particularly neovim) and LaTeX. I love music and the command line. I take great care in the maintainbility, readability, code quality, and relevant architecture.
 
 ### Languages / Frameworks / Tools
 
@@ -29,4 +30,7 @@ I like vim (particularly neovim) and LaTeX and love the command line. I take gre
   <code> <img width="40" alt="Java" title="Java" src="./assests/java.png" /></code>
   <code> <img width="40" alt="Kotlin" title="Kotlin" src="./assests/kotlin.png" /></code>
   <code> <img width="40" alt="Next.js" title="Next.js" src="./assests/nextjs.png" /></code>
+  <code> <img width="40" alt="MySQL" title="MYSQL" src="./assests/mysql.png" /> </code>
+  <code> <img width="40" alt="mongoDB" title="mongoDB" src="./assests/mongodb.png" /> </code>
+  <code> <img width="40" alt="linux" title="Linux (Operating System)" src="./assests/linux.png" /> </code>
 </p>
