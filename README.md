@@ -8,9 +8,9 @@
 
 <br /> <br />
 
-Hello. I'm [Ayam Banjade](https://brainteazer.github.io), a CS student. I am an open-source enthusiast and enjoy learning / trying out new things whether they be cutting edge or something I just want to try.
+Hello. I'm [Ayam Banjade](https://brainteazer.github.io), a CS student. I am an open-source enthusiast and enjoy learning/trying out new things, whether cutting-edge or just something I want to try.
 
-I like vim (particularly neovim) and LaTeX. I love music and the command line. I take great care in the maintainbility, readability, code quality, and relevant architecture.
+I like Vim (particularly Neovim) and LaTeX. I love music and the command line. I take great care of maintainability, readability, code quality, and relevant architecture.
 
 ### Languages / Frameworks / Tools
 
