@@ -6,7 +6,7 @@
     <img align='left' alt='linkedin' width='22px' height='48px' src='./assests/linkedin.svg'/>
 </a>
 <a href='mailto:ayam.banjade@gmail.com'>
-    <img align='left' alt='email' width='22px' height='48px' src=''/>
+    <img align='left' alt='email' width='22px' height='48px' src='./assests/email.svg'/>
 </a>
 
 <br /> <br />
