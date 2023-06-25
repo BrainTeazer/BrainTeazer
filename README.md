@@ -3,10 +3,10 @@
 ### hello there :-)
 
 <a href='https://www.linkedin.com/in/ayambanjade/'>
-    <img align='left' alt='linkedin' width='22px' src='./assests/linkedin.svg'/>
+    <img align='left' alt='linkedin' width='22px' height='48px' src='./assests/linkedin.svg'/>
 </a>
 <a href='mailto:ayam.banjade@gmail.com'>
-    <img align='left' alt='email' width='22px' src='./assests/email.svg'/>
+    <img align='left' alt='email' width='22px' height='48px' src='./assests/email.svg'/>
 </a>
 
 <br /> <br />
@@ -30,6 +30,9 @@ I like vim (particularly neovim) and LaTeX. I love music and the command line. I
   <code> <img width="40" alt="Java" title="Java" src="./assests/java.png" /></code>
   <code> <img width="40" alt="Kotlin" title="Kotlin" src="./assests/kotlin.png" /></code>
   <code> <img width="40" alt="Next.js" title="Next.js" src="./assests/nextjs.png" /></code>
+
+<br />
+
   <code> <img width="40" alt="MySQL" title="MYSQL" src="./assests/mysql.png" /> </code>
   <code> <img width="40" alt="mongoDB" title="mongoDB" src="./assests/mongodb.png" /> </code>
   <code> <img width="40" alt="linux" title="Linux (Operating System)" src="./assests/linux.png" /> </code>
