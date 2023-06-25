@@ -15,24 +15,24 @@ I like Vim (particularly Neovim) and LaTeX. I love music and the command line. I
 ### Languages / Frameworks / Tools
 
 <p float="center" align="middle">
-  <code> <img width="40" alt="C (programming language)" title="C (programming language)" src="./assets/c.svg"/> </code>
-  <code> <img width="40" alt="C++" title="C++" src="./assets/cpp.svg" /></code>
-  <code> <img width="40" alt="Javascript" title="Javascript" src="./assets/js.svg"/></code>
-  <code> <img width="40" alt="Python" title="Python" src="./assets/python.svg" /></code>
-  <code> <img width="40" alt="Rust (programming language)" title="Rust (programming language)" src="./assets/rust.png" /></code>
-  <code> <img width="40" alt="PHP" title="PHP" src="./assets/php.svg" /></code>
-  <code> <img width="40" alt="React (framework)" title="React (framework)" src="./assets/react.svg" /></code>
-  <code> <img width="40" alt="Flutter (programming language)" title="Flutter (programming language)" src="./assets/flutter.png" /></code>
-  <code> <img width="40" alt="Typescript" title="Typescript" src="./assets/typescript.svg" /></code>
-  <code> <img width="40" alt="Java" title="Java" src="./assets/java.png" /></code>
-  <code> <img width="40" alt="Kotlin" title="Kotlin" src="./assets/kotlin.svg" /></code>
-  <code> <img width="40" alt="Next.js" title="Next.js" src="./assets/nextjs.png" /></code>
+  <code> <img width="40" height="40" alt="C (programming language)" title="C (programming language)" src="./assets/c.svg"/> </code>
+  <code> <img width="40" height="40" alt="C++" title="C++" src="./assets/cpp.svg" /></code>
+  <code> <img width="40" height="40" alt="Javascript" title="Javascript" src="./assets/js.svg"/></code>
+  <code> <img width="40" height="40" alt="Python" title="Python" src="./assets/python.svg" /></code>
+  <code> <img width="40" height="40" alt="Rust (programming language)" title="Rust (programming language)" src="./assets/rust.png" /></code>
+  <code> <img width="40" height="40" alt="PHP" title="PHP" src="./assets/php.svg" /></code>
+  <code> <img width="40" height="40" alt="React (framework)" title="React (framework)" src="./assets/react.svg" /></code>
+  <code> <img width="40" height="40" alt="Flutter (programming language)" title="Flutter (programming language)" src="./assets/flutter.png" /></code>
+  <code> <img width="40" height="40" alt="Typescript" title="Typescript" src="./assets/typescript.svg" /></code>
+  <code> <img width="40" height="40" alt="Java" title="Java" src="./assets/java.png" /></code>
+  <code> <img width="40" height="40" alt="Kotlin" title="Kotlin" src="./assets/kotlin.svg" /></code>
+  <code> <img width="40" height="40" alt="Next.js" title="Next.js" src="./assets/nextjs.png" /></code>
 
 </p>
 
 <p float="center" align="middle" >
-<code> <img width="40" alt="MySQL" title="MYSQL" src="./assets/mysql.svg" /> </code>
-<code> <img width="40" alt="mongoDB" title="mongoDB" src="./assets/mongodb.svg" /> </code>
-<code> <img width="40" alt="figma" title="Figma" src="./assets/figma.svg" /> </code>
-<code> <img width="40" alt="linux" title="Linux (Operating System)" src="./assets/linux.svg" /> </code>
+<code> <img width="40" height="40" alt="MySQL" title="MYSQL" src="./assets/mysql.svg" /> </code>
+<code> <img width="40" height="40" alt="mongoDB" title="mongoDB" src="./assets/mongodb.png" /> </code>
+<code> <img width="40" height="40" alt="figma" title="Figma" src="./assets/figma.svg" /> </code>
+<code> <img width="40" height="40" alt="linux" title="Linux (Operating System)" src="./assets/linux.svg" /> </code>
 </p>
