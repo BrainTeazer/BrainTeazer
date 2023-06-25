@@ -1,10 +1,10 @@
-![banner-github](https://raw.githubusercontent.com/BrainTeazer/BrainTeazer/893ccaf8cdc27878fde21f2c6efc0f73f5755433/assets/banner-github.svg)
+![banner-github](https://raw.githubusercontent.com/BrainTeazer/BrainTeazer/main/assets/banner-github.svg)
 
 ### hello there :-)
 
-[<img align='left' alt='linkedin' width='22px' src='./assets/linkedin.svg'/>](https://www.linkedin.com/in/ayambanjade/)
+[<img align='left' alt='linkedin' width='28px' src='./assets/linkedin.svg'/>](https://www.linkedin.com/in/ayambanjade/)
 
-[<img align='left' alt='email' width='22px' src='./assets/email.svg'/>](mailto:ayam.banjade@gmail.com)
+[<img align='left' alt='email' width='28px' src='./assets/email.svg'/>](mailto:ayam.banjade@gmail.com)
 
 <br /> <br />
 
