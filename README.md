@@ -32,6 +32,7 @@ I like vim (particularly neovim) and LaTeX. I love music and the command line. I
 
 <code> <img width="40" alt="MySQL" title="MYSQL" src="./assets/mysql.png" /> </code>
 <code> <img width="40" alt="mongoDB" title="mongoDB" src="./assets/mongodb.png" /> </code>
+<code> <img width="40" alt="figma" title="Figma" src="./assets/figma.png" /> </code>
 <code> <img width="40" alt="linux" title="Linux (Operating System)" src="./assets/linux.png" /> </code>
 
 </p>
