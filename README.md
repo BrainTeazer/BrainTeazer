@@ -1,13 +1,10 @@
-![banner-github](https://raw.githubusercontent.com/BrainTeazer/BrainTeazer/893ccaf8cdc27878fde21f2c6efc0f73f5755433/assests/banner-github.svg)
+![banner-github](https://raw.githubusercontent.com/BrainTeazer/BrainTeazer/893ccaf8cdc27878fde21f2c6efc0f73f5755433/assets/banner-github.svg)
 
 ### hello there :-)
 
-<a href='https://www.linkedin.com/in/ayambanjade/'>
-    <img align='left' alt='linkedin' width='22px' src='./assests/linkedin.svg'/>
-</a>
-<a href='mailto:ayam.banjade@gmail.com'>
-    <img align='left' alt='email' width='22px' src='./assests/email.svg'/>
-</a>
+[<img align='left' alt='linkedin' width='22px' src='./assets/linkedin.svg'/>](https://www.linkedin.com/in/ayambanjade/)
+
+[<img align='left' alt='email' width='22px' src='./assets/email.svg'/>](mailto:ayam.banjade@gmail.com)
 
 <br /> <br />
 
@@ -18,22 +15,23 @@ I like vim (particularly neovim) and LaTeX. I love music and the command line. I
 ### Languages / Frameworks / Tools
 
 <p float="left">
-  <code> <img width="40" alt="C (programming language)" title="C (programming language)" src="./assests/c.png"/> </code>
-  <code> <img width="40" alt="C++" title="C++" src="./assests/cpp.png" /></code>
-  <code> <img width="40" alt="Javascript" title="Javascript" src="./assests/js.png"/></code>
-  <code> <img width="40" alt="Python" title="Python" src="./assests/python.png" /></code>
-  <code> <img width="40" alt="Rust (programming language)" title="Rust (programming language)" src="./assests/rust.png" /></code>
-  <code> <img width="40" alt="PHP" title="PHP" src="./assests/php.png" /></code>
-  <code> <img width="40" alt="React (framework)" title="React (framework)" src="./assests/react.png" /></code>
-  <code> <img width="40" alt="Flutter (programming language)" title="Flutter (programming language)" src="./assests/flutter.png" /></code>
-  <code> <img width="40" alt="Typescript" title="Typescript" src="./assests/typescript.png" /></code>
-  <code> <img width="40" alt="Java" title="Java" src="./assests/java.png" /></code>
-  <code> <img width="40" alt="Kotlin" title="Kotlin" src="./assests/kotlin.png" /></code>
-  <code> <img width="40" alt="Next.js" title="Next.js" src="./assests/nextjs.png" /></code>
+  <code> <img width="40" alt="C (programming language)" title="C (programming language)" src="./assets/c.png"/> </code>
+  <code> <img width="40" alt="C++" title="C++" src="./assets/cpp.png" /></code>
+  <code> <img width="40" alt="Javascript" title="Javascript" src="./assets/js.png"/></code>
+  <code> <img width="40" alt="Python" title="Python" src="./assets/python.png" /></code>
+  <code> <img width="40" alt="Rust (programming language)" title="Rust (programming language)" src="./assets/rust.png" /></code>
+  <code> <img width="40" alt="PHP" title="PHP" src="./assets/php.png" /></code>
+  <code> <img width="40" alt="React (framework)" title="React (framework)" src="./assets/react.png" /></code>
+  <code> <img width="40" alt="Flutter (programming language)" title="Flutter (programming language)" src="./assets/flutter.png" /></code>
+  <code> <img width="40" alt="Typescript" title="Typescript" src="./assets/typescript.png" /></code>
+  <code> <img width="40" alt="Java" title="Java" src="./assets/java.png" /></code>
+  <code> <img width="40" alt="Kotlin" title="Kotlin" src="./assets/kotlin.png" /></code>
+  <code> <img width="40" alt="Next.js" title="Next.js" src="./assets/nextjs.png" /></code>
 
 <br />
 
-  <code> <img width="40" alt="MySQL" title="MYSQL" src="./assests/mysql.png" /> </code>
-  <code> <img width="40" alt="mongoDB" title="mongoDB" src="./assests/mongodb.png" /> </code>
-  <code> <img width="40" alt="linux" title="Linux (Operating System)" src="./assests/linux.png" /> </code>
+<code> <img width="40" alt="MySQL" title="MYSQL" src="./assets/mysql.png" /> </code>
+<code> <img width="40" alt="mongoDB" title="mongoDB" src="./assets/mongodb.png" /> </code>
+<code> <img width="40" alt="linux" title="Linux (Operating System)" src="./assets/linux.png" /> </code>
+
 </p>
