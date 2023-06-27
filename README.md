@@ -19,6 +19,7 @@ I like Vim (particularly Neovim) and LaTeX. I love music and the command line. I
   <code> <img width="40" height="40" alt="C++" title="C++" src="./assets/cpp.svg" /></code>
   <code> <img width="40" height="40" alt="Javascript" title="Javascript" src="./assets/js.svg"/></code>
   <code> <img width="40" height="40" alt="Python" title="Python" src="./assets/python.svg" /></code>
+  <code> <img width="40" height="40" alt="Svelte" title="Svelte" src="./assets/svelte.png" /></code>
   <code> <img width="40" height="40" alt="Rust (programming language)" title="Rust (programming language)" src="./assets/rust.png" /></code>
   <code> <img width="40" height="40" alt="PHP" title="PHP" src="./assets/php.svg" /></code>
   <code> <img width="40" height="40" alt="React (framework)" title="React (framework)" src="./assets/react.svg" /></code>
@@ -27,7 +28,6 @@ I like Vim (particularly Neovim) and LaTeX. I love music and the command line. I
   <code> <img width="40" height="40" alt="Java" title="Java" src="./assets/java.png" /></code>
   <code> <img width="40" height="40" alt="Kotlin" title="Kotlin" src="./assets/kotlin.svg" /></code>
   <code> <img width="40" height="40" alt="Next.js" title="Next.js" src="./assets/nextjs.png" /></code>
-
 </p>
 
 <p float="center" align="middle" >
