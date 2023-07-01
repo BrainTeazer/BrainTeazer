@@ -7,8 +7,6 @@
 [<img align='left' alt='email' width='28px' src='./assets/email.svg'/>](mailto:ayam.banjade@gmail.com)
 <img align="center" src="https://komarev.com/ghpvc/?username=brainteazer&style=flat-square&color=blue" alt=""/>
 
-<br />
-
 Hello. I'm [Ayam Banjade](https://brainteazer.github.io), a CS student. I am an open-source enthusiast and enjoy learning/trying out new things, whether cutting-edge or just something I want to try.
 
 I like Vim (particularly Neovim) and LaTeX. I love music and the command line. I take great care of maintainability, readability, code quality, and relevant architecture.
