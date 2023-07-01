@@ -1,11 +1,12 @@
 ![banner-github](https://raw.githubusercontent.com/BrainTeazer/BrainTeazer/main/assets/banner-github.svg)
+<img align="center" src="https://komarev.com/ghpvc/?username=brainteazer&style=for-the-badge&color=blueviolet" alt=""/>
 
 ### hello there :-)
 
 [<img align='left' alt='linkedin' width='28px' src='./assets/linkedin.svg'/>](https://www.linkedin.com/in/ayambanjade/)
 
 [<img align='left' alt='email' width='28px' src='./assets/email.svg'/>](mailto:ayam.banjade@gmail.com)
-<img align="center" src="https://komarev.com/ghpvc/?username=brainteazer&style=for-the-badge&color=blueviolet" alt=""/>
+<br/>
 
 Hello. I'm [Ayam Banjade](https://brainteazer.github.io), a CS student. I am an open-source enthusiast and enjoy learning/trying out new things, whether cutting-edge or just something I want to try.
 
