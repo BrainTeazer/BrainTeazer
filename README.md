@@ -5,6 +5,7 @@
 [<img align='left' alt='linkedin' width='28px' src='./assets/linkedin.svg'/>](https://www.linkedin.com/in/ayambanjade/)
 
 [<img align='left' alt='email' width='28px' src='./assets/email.svg'/>](mailto:ayam.banjade@gmail.com)
+<img align="center" src="https://komarev.com/ghpvc/?username=brainteazer&style=flat-square&color=blue" alt=""/>
 
 <br /> <br />
 
