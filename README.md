@@ -27,13 +27,8 @@ I like Vim (particularly Neovim) and LaTeX. I love music, playing sports, and th
   <code> <img width="40" height="40" alt="Typescript" title="Typescript" src="./assets/typescript.svg" /></code>
   <code> <img width="40" height="40" alt="Java" title="Java" src="./assets/java.png" /></code>
   <code> <img width="40" height="40" alt="Kotlin" title="Kotlin" src="./assets/kotlin.svg" /></code>
-  <picture>
-  <code> 
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/nextjs-dark.png"> 
-      <source media="(prefers-color-scheme: light)" srcset="./assets/nextjs-light.png"> 
-      <img width="40" height="40" alt="Next.js" title="Next.js" src="./assets/nextjs-light.png" /> 
-    </code>
-  </picture>
+  
+  <code><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nextjs-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/nextjs-light.png"><img width="40" height="40" alt="Next.js" title="Next.js" src="./assets/nextjs-light.png" /></picture></code>
   
 </p>
 
