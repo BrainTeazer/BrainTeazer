@@ -3,11 +3,6 @@
 
 ### hello there :-)
 
-[<img align='left' alt='linkedin' width='28px' src='./assets/linkedin.svg'/>](https://www.linkedin.com/in/ayambanjade/)
-
-[<img align='left' alt='email' width='28px' src='./assets/email.svg'/>](mailto:ayam.banjade@gmail.com)
-<br/>
-
 I'm [Ayam Banjade](https://www.ayambanjade.com.np/), a undergrad CS student. I am an avid open-source and privacy enthusiast and enjoy learning/trying out new things, whether cutting-edge or just something I want to try.
 
 I like Vim (particularly Neovim) and LaTeX. I love [music](https://www.last.fm/user/aybanj/), playing sports, and the command line. I take great care of maintainability, readability, code quality, and relevant architecture.
@@ -30,3 +25,7 @@ I like Vim (particularly Neovim) and LaTeX. I love [music](https://www.last.fm/u
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=f5f5f7)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=f5f5f7)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000000)
+
+[<img align='left' alt='linkedin' width='28px' src='./assets/linkedin.svg'/>](https://www.linkedin.com/in/ayambanjade/)
+
+[<img align='left' alt='email' width='28px' src='./assets/email.svg'/>](mailto:ayam.banjade@gmail.com)
