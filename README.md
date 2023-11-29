@@ -8,33 +8,25 @@
 [<img align='left' alt='email' width='28px' src='./assets/email.svg'/>](mailto:ayam.banjade@gmail.com)
 <br/>
 
-Hello. I'm [Ayam Banjade](https://www.ayambanjade.com.np/), a CS student. I am an open-source enthusiast and enjoy learning/trying out new things, whether cutting-edge or just something I want to try.
+Hello. I'm [Ayam Banjade](https://www.ayambanjade.com.np/), a CS student. I am an avid open-source and privacy enthusiast and enjoy learning/trying out new things, whether cutting-edge or just something I want to try.
 
-I like Vim (particularly Neovim) and LaTeX. I love music, playing sports, and the command line. I take great care of maintainability, readability, code quality, and relevant architecture.
+I like Vim (particularly Neovim) and LaTeX. I love [music](https://www.last.fm/user/aybanj/), playing sports, and the command line. I take great care of maintainability, readability, code quality, and relevant architecture.
 
 ### Languages / Frameworks / Tools
 
-<!-- <a target="_blank" rel="noopener noreferrer" href=""> </a> -->
-<p float="center" align="middle">
-  <code> <a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/C"><img width="40" height="40" alt="C (programming language)" title="C (programming language)" src="./assets/c.svg"/></a></code>
-  <code> <a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/C%2B%2B"><img width="40" height="40" alt="C++" title="C++" src="./assets/cpp.svg" /></a></code>
-  <code> <a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/JavaScript"><img width="40" height="40" alt="Javascript" title="Javascript" src="./assets/js.svg"/></a></code>
-  <code> <a target="_blank" rel="noopener noreferrer" href="https://www.python.org/"><img width="40" height="40" alt="Python" title="Python" src="./assets/python.svg" /></a></code>
-  <code> <a target="_blank" rel="noopener noreferrer" href="https://svelte.dev/"><img width="40" height="40" alt="Svelte" title="Svelte" src="./assets/svelte.png" /></a></code>
-  <code> <a target="_blank" rel="noopener noreferrer" href="https://www.rust-lang.org/"><img width="40" height="40" alt="Rust (programming language)" title="Rust (programming language)" src="./assets/rust.png" /></a></code>
-  <code> <a target="_blank" rel="noopener noreferrer" href="https://www.php.net/"><img width="40" height="40" alt="PHP" title="PHP" src="./assets/php.svg" /></a></code>
-  <code> <a target="_blank" rel="noopener noreferrer" href="https://react.dev/"><img width="40" height="40" alt="React (framework)" title="React (framework)" src="./assets/react.svg" /></a></code>
-  <code> <a target="_blank" rel="noopener noreferrer" href="https://flutter.dev/"><img width="40" height="40" alt="Flutter (programming language)" title="Flutter (programming language)" src="./assets/flutter.png" /></a></code>
-  <code> <a target="_blank" rel="noopener noreferrer" href="https://www.typescriptlang.org/"><img width="40" height="40" alt="Typescript" title="Typescript" src="./assets/typescript.svg" /></a></code>
-  <code> <a target="_blank" rel="noopener noreferrer" href="https://www.java.com/"><img width="40" height="40" alt="Java" title="Java" src="./assets/java.png" /></a></code>
-  <code> <a target="_blank" rel="noopener noreferrer" href="https://kotlinlang.org/"><img width="40" height="40" alt="Kotlin" title="Kotlin" src="./assets/kotlin.svg" /></a></code>
-  <code><a target="_blank" rel="noopener noreferrer" href="https://nextjs.org/"><img width="40" height="40" alt="Next.js" title="Next.js" src="./assets/nextjs.png" /></a></code>
-  
-</p>
-
-<p float="center" align="middle" >
-<code> <a target="_blank" rel="noopener noreferrer" href="https://www.mysql.com/"><img width="40" height="40" alt="MySQL" title="MYSQL" src="./assets/mysql.svg" /></a> </code>
-<code> <a target="_blank" rel="noopener noreferrer" href="https://www.mongodb.com/"><img width="40" height="40" alt="mongoDB" title="mongoDB" src="./assets/mongodb.png" /></a> </code>
-<code> <a target="_blank" rel="noopener noreferrer" href="https://www.figma.com/"><img width="40" height="40" alt="figma" title="Figma" src="./assets/figma.svg" /></a> </code>
-<code> <a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/Linux"><img width="40" height="40" alt="linux" title="Linux (Operating System)" src="./assets/linux.svg" /></a> </code>
-</p>
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=f5f5f7)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&logoColor=f5f5f7)
+![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000)
+![Typescript](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=f5f5f7)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=f5f5f7)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=f5f5f7)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=f5f5f7)
+![Php](https://img.shields.io/badge/-Php-777BB4?logo=php&logoColor=f5f5f7)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000000)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=f5f5f7)
+![Java](https://img.shields.io/badge/-Java-437291?logo=openjdk&logoColor=dddddd)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=f5f5f7)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=f5f5f7)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=f5f5f7)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=f5f5f7)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000000)
