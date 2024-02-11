@@ -5,7 +5,7 @@
 
 I'm [Ayam Banjade](https://www.ayambanjade.com.np/), an undergrad CS student. I am an avid open-source and privacy enthusiast, and enjoy learning/trying out new things, whether cutting-edge or just something I want to try.
 
-I like Vim (particularly Neovim) and LaTeX. I love [music](https://www.last.fm/user/aybanj/), playing sports, and the command line. I take great care of maintainability, readability, code quality, and relevant architecture.
+I like Vim (particularly Neovim) and LaTeX. I love music, playing sports, and the command line. I take great care of maintainability, readability, code quality, and relevant architecture.
 
 ### languages / frameworks / tools
 
