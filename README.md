@@ -5,10 +5,11 @@
 
 I'm [Ayam Banjade](https://www.ayambanjade.com.np/), an avid open-source and privacy enthusiast, and enjoy learning/trying out new things, whether cutting-edge or just something I want to try.
 
-I like Vim (particularly Neovim) and LaTeX. I love music, playing sports, and the command line. I take great care of maintainability, readability, code quality, and relevant architecture.
+I love [music](https://www.last.fm/user/aybanj), reading, tv shows/movies, and the command line.
 
 ### languages / frameworks / tools
 
+![Qt](https://img.shields.io/badge/Qt-013220.svg?logo=qt)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=f5f5f7)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&logoColor=f5f5f7)
 ![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000)
