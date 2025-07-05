@@ -5,7 +5,7 @@
 
 I'm [Ayam Banjade](https://www.ayambanjade.com.np/), an avid open-source and privacy enthusiast, and enjoy learning/trying out new things, whether cutting-edge or just something I want to try.
 
-I love [music](https://www.last.fm/user/aybanj), reading, tv shows/movies, and the command line.
+I love music, reading, tv shows/movies, and the command line.
 
 ### languages / frameworks / tools
 
